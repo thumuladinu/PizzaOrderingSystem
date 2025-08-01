@@ -1,0 +1,15 @@
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/bin/Debug/net6.0/PizzaOrderingClient
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/bin/Debug/net6.0/PizzaOrderingClient.deps.json
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/bin/Debug/net6.0/PizzaOrderingClient.runtimeconfig.json
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/bin/Debug/net6.0/PizzaOrderingClient.dll
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/bin/Debug/net6.0/PizzaOrderingClient.pdb
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.AssemblyInfoInputs.cache
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.AssemblyInfo.cs
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.csproj.CoreCompileInputs.cache
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.sourcelink.json
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.dll
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/refint/PizzaOrderingClient.dll
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.pdb
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/PizzaOrderingClient.genruntimeconfig.cache
+/workspaces/PizzaOrderingSystem/PizzaOrderingClient/obj/Debug/net6.0/ref/PizzaOrderingClient.dll

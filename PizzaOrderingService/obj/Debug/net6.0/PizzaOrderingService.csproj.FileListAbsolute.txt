@@ -1,0 +1,6 @@
+/workspaces/PizzaOrderingSystem/PizzaOrderingService/obj/Debug/net6.0/PizzaOrderingService.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/PizzaOrderingSystem/PizzaOrderingService/obj/Debug/net6.0/PizzaOrderingService.AssemblyInfoInputs.cache
+/workspaces/PizzaOrderingSystem/PizzaOrderingService/obj/Debug/net6.0/PizzaOrderingService.AssemblyInfo.cs
+/workspaces/PizzaOrderingSystem/PizzaOrderingService/obj/Debug/net6.0/PizzaOrderingService.csproj.CoreCompileInputs.cache
+/workspaces/PizzaOrderingSystem/PizzaOrderingService/obj/Debug/net6.0/PizzaOrderingService.MvcApplicationPartsAssemblyInfo.cache
+/workspaces/PizzaOrderingSystem/PizzaOrderingService/obj/Debug/net6.0/PizzaOrderingService.sourcelink.json
